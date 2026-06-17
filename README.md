@@ -1,11 +1,9 @@
-#NeuroApartment
+# NeuroApartment
 
 AI-Powered Smart Home Automation Platform built with openHAB, MQTT and JavaScript Automation.
-
 Overview
 
-NeuroApartment is an advanced Smart Home simulation project developed to demonstrate:
-
+# NeuroApartment is an advanced Smart Home simulation project developed to demonstrate:
 Home Automation
 Climate Intelligence
 Lighting Automation
@@ -53,7 +51,7 @@ Water consumption
 Total energy monitoring
 Dashboard
 
-Features:
+# Features:
 
 Real-time weather
 Climate control
@@ -63,32 +61,27 @@ Lighting control
 Floorplan visualization
 Project Status
 
-Current Version:
-
+# Current Version:
 NeuroApartment v1.0
 
-Status:
-
+# Status:
 In Active Development
-Author
 
+# Author
 Imeda Sherifadze
 
-AI Systems Designer
+# AI Systems Designer
 Smart Home Automation Developer
 Network & Cybersecurity Specialist
 
-GitHub:
-
+# GitHub:
 https://github.com/imeda1968
 
-Telegram:
-
+# Telegram:
 https://t.me/NeuroFusionHub
-Screenshots
 
+# Screenshots
 (Add dashboard screenshots here)
 
-License
-
+# License
 Personal Portfolio Project
