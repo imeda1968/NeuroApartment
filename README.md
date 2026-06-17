@@ -1,4 +1,4 @@
-NeuroApartment
+#NeuroApartment
 
 AI-Powered Smart Home Automation Platform built with openHAB, MQTT and JavaScript Automation.
 
